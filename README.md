@@ -43,9 +43,12 @@ my-app
 ├── node_modules
 ├── public
 ├── src
+├── .gitignore
 ├── package.json
+├── package-lock.json
 ├── README.md
 ├── tsconfig.json
+├── yarn.lock
 ```
 
 Subfolders are not shown in order to keep it short.<br>
@@ -65,3 +68,5 @@ By default, it also includes a service worker so that your app loads from local 
 **If you’re getting started** with `jQWidgets` and `React`, using `create-jqwidgets-react-tsx-app` is the easiest way to do this.  <br />
 Just install, run and you will see an React jQWidgets Grid on your page. <br />
 Then you can customize the project as much as you want, making something great.
+
+![grid-img](https://i.imgur.com/bQFUhnE.png)
