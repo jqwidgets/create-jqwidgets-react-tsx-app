@@ -1,13 +1,13 @@
 {
   "name": "create-jqwidgets-react-tsx-app",
-  "version": "8.1.2",
+  "version": "8.1.4",
   "private": true,
   "dependencies": {
     "@types/jest": "24.0.15",
     "@types/node": "12.0.8",
     "@types/react": "16.8.20",
     "@types/react-dom": "16.8.4",
-    "jqwidgets-scripts": "^8.1.2",
+    "jqwidgets-scripts": "^8.1.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1",
